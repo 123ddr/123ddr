@@ -1,6 +1,6 @@
 # Dumindu Dananjaya ✨
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harsha%20Kumarasingha&fontSize=70&animation=fadeIn)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dumindu%20Dananjaya&fontSize=70&animation=fadeIn)
 
 ## 🚀 About Me
 - 🎓 Undergraduate student pursuing a BSc (Hons) in Software Engineering
