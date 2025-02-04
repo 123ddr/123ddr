@@ -38,13 +38,14 @@
 
 ## 🎓 Certifications & Expertise  
 
-### 📜 Professional Certifications  
-- ✅ **Jenkins Certification Training** – CI/CD pipeline & automation  
-- ✅ **AWS Fundamentals** – Cloud computing & AWS services  
-- ✅ **Linux Administration** – System management & command-line proficiency  
-- ✅ **Selenium Automation Testing** – Web application test automation  
-- ✅ **Agile Methodology** – Iterative development & team collaboration  
-- ✅ **ICT Technician (with Credits)** – Information & Communication Technology expertise  
+## 📜 Professional Certifications
+
+- ✅ **AWS Fundamentals** – Cloud computing & AWS services
+- ✅ **Playwright Automation Testing** – Web application test automation
+- ✅ **Agile Methodology** – Iterative development & team collaboration
+- ✅ **ICT Technician (with Credits)** – Information & Communication Technology expertise
+- ✅ **Java Advanced** – Advanced Java programming
+- ✅ **Specialized in Spring Boot 3, Spring 6 & Hibernate** – Expertise in building modern Java applications with Spring technologies
 
 ### 🛠 Technology Specializations  
 - 🚀 **Spring Boot** – Enterprise-level backend development & microservices  
